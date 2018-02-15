@@ -5,5 +5,6 @@ public class CommitRollbackTester
 			{
 			System.out.println("This is statement #1");
 			System.out.println("This is statement #2");
+			System.out.println("This is statement #3");
 			}
 	}
